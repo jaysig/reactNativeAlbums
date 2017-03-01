@@ -11,9 +11,10 @@ import {
   Text,
   View
 } from 'react-native';
+import Header from './src/components/Header';
 
 const App = () => (
-  <Text>Some Text</Text>
+  <Header />
 );
 
 AppRegistry.registerComponent('albums', () => App);
