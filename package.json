@@ -9,6 +9,7 @@
     "android": "react-native android"
   },
   "dependencies": {
+    "axios": "^0.15.3",
     "react": "~15.4.0",
     "react-native": "0.41.2"
   },
